@@ -1,6 +1,6 @@
 # Sally & Rowan - Smart Spell Checker
 
-## Description
+### Description
 This project is a desktop application for live **spell checking** in English.  
 It provides automatic corrections as you type, highlights spelling mistakes, and offers alternative suggestions.  
 
