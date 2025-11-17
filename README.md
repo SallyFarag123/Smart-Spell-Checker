@@ -13,9 +13,6 @@ It provides automatic corrections as you type, highlights spelling mistakes, and
 - Open `.txt` files
 - Word suggestions and autocomplete
 
-## Screenshots
-(Add screenshots here if desired)
-
 ## Authors
 - Sally Farag Abdelfadiel (202202489)  
 - Rowan Adel (202200539)  
